@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151419010113",
+    "project_id": "flexia-242c7",
+    "storage_bucket": "flexia-242c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151419010113:android:846f4dc364f54c20439ac0",
+        "android_client_info": {
+          "package_name": "com.flexia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151419010113-lvgnt14vvqheei6ci5rkfbbfcva3bhqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flexia",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "151419010113-lgkopgfsqo6ihvjf1isu64af254o8tl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOpNvLpD9Y6xYveU9SsOK5-p3y7Oydfxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151419010113-lgkopgfsqo6ihvjf1isu64af254o8tl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
